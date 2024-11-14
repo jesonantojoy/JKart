@@ -1,0 +1,38 @@
+.embulum>img{
+    width:60px;
+    height:50px;
+    border-radius:10px;
+    margin-left:650px;
+    margin-top:5px;
+}
+
+ .embulum>h2 {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--primary-color);
+    text-decoration: none;
+    margin-top:-46px;
+    margin-left:0px;
+    text-align: center;
+}
+
+.outer{
+     display: flex;
+    justify-content: center;
+    
+    margin-top:50px;
+
+}
+
+.text{
+    font-size:2em;
+    text-align: center;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    background-color: blanchedalmond;
+    width:500px;
+    height: 500px;
+}
